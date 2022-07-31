@@ -1,0 +1,22 @@
+{
+  "name": "erc20deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorrwa/AutoERC20Deployer.git"
+  },
+  "author": "dorrwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorrwa/AutoERC20Deployer/issues"
+  },
+  "homepage": "https://github.com/dorrwa/AutoERC20Deployer#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}
